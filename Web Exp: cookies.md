@@ -50,11 +50,10 @@ Cookie #18 is special
 <!DOCTYPE html> <html lang="en"> <head> <title>Cookies</title> <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet"> <link href="https://getbootstrap.com/docs/3.3/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet"> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> </head> <body> <div class="container"> <div class="header"> <nav> <ul class="nav nav-pills pull-right"> <li role="presentation"><a href="/reset" class="btn btn-link pull-right">Home</a> </li> </ul> </nav> <h3 class="text-muted">Cookies</h3> </div> <div class="jumbotron"> <p class="lead"></p> <p style="text-align:center; font-size:30px;"><b>Flag</b>: <code>picoCTF{3v3ry1_l0v3s_c00k135_96cdadfd}</code></p> </div> <footer class="footer"> <p>&copy; PicoCTF</p> </footer> </div> </body> </html>
 root@LAPTOP-GEM5SRL1:~#
 ```
+![Screenshot (1273)](https://github.com/user-attachments/assets/db472d0f-6447-479f-91da-8d4a06092fe1)
 
-![Screenshot (754)](https://github.com/user-attachments/assets/47241a5c-1d86-4b46-bec0-9c85c06ba90a)
 
-
-![Screenshot (1266)](https://github.com/user-attachments/assets/362c99c7-e5df-4846-9595-06891b3a4472)
+![Screenshot (1274)](https://github.com/user-attachments/assets/86a1f6c1-fe10-472b-beb3-c1ce29a2f5de)
 
 
 **picoCTF{3v3ry1_l0v3s_c00k135_96cdadfd}**
