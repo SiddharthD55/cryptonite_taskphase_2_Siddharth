@@ -1,6 +1,6 @@
 In this write-up, I extracted a hidden flag from an image file using `binwalk`. This challenge was quite the adventure, filled with multiple steps, some troubleshooting, and learnings along the way.
 
-![Screenshot (5)](https://github.com/user-attachments/assets/bccb506b-98cd-4c9d-a8f5-d311664d285b)
+![Screenshot (5)](https://github.com/user-attachments/assets/22ba5f9a-5921-4483-8f53-3f4bded80ad6)
 
 
 ## Step 1: Analyzing the Image with Binwalk
@@ -133,13 +133,13 @@ This challenge was not just about extracting a hidden flag but also about the le
 
 This challenge was a good exercise in using `binwalk` to analyze and extract hidden data from an image file. By meticulously following the steps, troubleshooting permissions issues, and using the right commands, I successfully uncovered the hidden flag.
 
-![Screenshot (7)](https://github.com/user-attachments/assets/54a8458b-591a-43ae-800f-23a3d6e06de0)
+![Screenshot (7)](https://github.com/user-attachments/assets/ea2d9836-304c-451e-9dd7-f3036c47567e)
 
 
-![Screenshot (8)](https://github.com/user-attachments/assets/22709baf-6c0a-4a99-a226-77c8e53d122c)
+![Screenshot (8)](https://github.com/user-attachments/assets/8622663a-2777-4d3e-a209-e8ed22807168)
 
 
-![Screenshot (6)](https://github.com/user-attachments/assets/fefa4337-494c-4a8a-9c8c-d81f0c005d35)
+![Screenshot (6)](https://github.com/user-attachments/assets/13c3278e-c6a5-4204-b428-fa2667ad9022)
 
 
 **picoCTF{Hiddinng_An_imag3_within_@n_ima9e_85e04ab8}**
