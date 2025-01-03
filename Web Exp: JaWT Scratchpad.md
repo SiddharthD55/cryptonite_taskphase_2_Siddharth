@@ -12,6 +12,8 @@ And...admin could be a hint too.
 ![Screenshot (61)](https://github.com/user-attachments/assets/e56499ea-e917-4368-ae60-ff1687a6085b)
 
 
+(Ok well you see a 'Cookie Editor' thing on the side. You'll find out why later in the writeup. Read on!)
+
 Well, I entered a username John.
 
 ![Screenshot (54)](https://github.com/user-attachments/assets/edeb86ac-1e7c-43c3-a9b8-da21e5ceac80)
