@@ -89,4 +89,5 @@ After successfully finding the flag, I took some time to reflect on the challeng
 **Final Thoughts:**
 
 This challenge was a fascinating exercise in problem-solving and critical thinking. It reinforced the importance of observation, methodical thinking, and familiarity with common web technologies and encoding techniques. By following these principles, I successfully decoded the text and found the flag.
+
 **picoCTF{Who_D03sN7_L1k5_90B0T5_718c9043}**
