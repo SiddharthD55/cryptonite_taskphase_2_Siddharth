@@ -13,22 +13,19 @@ By understanding and manipulating network conditions, I learned how to effective
 ![Screenshot (65)](https://github.com/user-attachments/assets/8d652672-7046-4aa4-b131-6900b796deda)
 
 
+![Screenshot (68)](https://github.com/user-attachments/assets/c57c051c-b427-40e9-b2d9-871d7b17a12e)
+
+
 ![Screenshot (66)](https://github.com/user-attachments/assets/1a9244e4-672a-455a-b706-7be105b771c9)
 
 
 ![Screenshot (67)](https://github.com/user-attachments/assets/2f217d0d-9be6-4075-a96d-42a1d44147cb)
 
 
-![Screenshot (68)](https://github.com/user-attachments/assets/c57c051c-b427-40e9-b2d9-871d7b17a12e)
-
-
 ![Screenshot (69)](https://github.com/user-attachments/assets/3445cdff-2b29-40e2-bc81-b7800f77f399)
 
 
 ![Screenshot (70)](https://github.com/user-attachments/assets/702d33f2-865e-43f9-ab1c-c2edc50b9ec8)
-
-
-![Screenshot (71)](https://github.com/user-attachments/assets/37330c48-66c2-416e-b972-e53a49adcd22)
 
 
 **picoCTF{p1c0_s3cr3t_ag3nt_51414fa7}**
