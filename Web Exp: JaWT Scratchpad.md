@@ -45,7 +45,7 @@ A JWT is divided into three parts, each separated by a dot:
    ```
 
 2. **Payload**
-   The payload contains the claims, which include user information and other data. For this challenge, the payload showed that I was logged in as "akshay". Decoding it revealed:
+   The payload contains the claims, which include user information and other data. For this challenge, the payload showed that I was logged in as "John". Decoding it revealed:
    ```
    {"user":"John"}
    ```
