@@ -60,7 +60,7 @@ After configuring the RSA key, I reloaded the capture file in Wireshark. This st
 With the TLS packets now decrypted, I could see additional details that were previously hidden. One of the decrypted packets was particularly interesting:
 
 - **HTTP Packet**: It was an HTTP GET request for `starter-template.css`.
-- 
+
 ![Screenshot (27)](https://github.com/user-attachments/assets/6c6e4e2c-8fd8-44c8-9983-55096b2b3c7d)
 
 ### 6. Following the TLS Stream
