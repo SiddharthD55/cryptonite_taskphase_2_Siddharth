@@ -45,6 +45,9 @@ The `Disallow` directives were typical, directing web crawlers away from specifi
 
 I decided to decode the suspicious text using an online base64 decoder. Initially, the text appeared malformed. Noticing that the base64 text was spread over three lines, I considered that it might be three separate base64-encoded strings.
 
+![Screenshot (49)](https://github.com/user-attachments/assets/e702d709-b280-4ddd-8008-d23cf92c7c74)
+
+
 **Step 3: Decoding Each Line Separately**
 
 I decoded each line individually:
@@ -52,16 +55,14 @@ I decoded each line individually:
 - **First line:** `ZmxhZzEudHh0`
   - This line decoded to `flag1.txt`, which looked like a file name but didn’t lead to any immediate results.
 
-![Screenshot (49)](https://github.com/user-attachments/assets/e702d709-b280-4ddd-8008-d23cf92c7c74)
-
-
 ![Screenshot (51)](https://github.com/user-attachments/assets/f3bd4f61-c977-48bd-ab4d-6c09f8c8a801)
 
+![Screenshot (50)](https://github.com/user-attachments/assets/97fd74ad-7824-49d2-85db-8cb7585c6939)
 
 - **Second line:** `anMvbXlmaWxlLnR4dA==`
   - This line decoded to a valid path: `js/myfile.txt`.
 
-![Screenshot (50)](https://github.com/user-attachments/assets/97fd74ad-7824-49d2-85db-8cb7585c6939)
+![Screenshot (73)](https://github.com/user-attachments/assets/6e4cb2f4-d786-4874-a664-25ba4681244e)
 
 
 - **Third line:** `svssshjweuiwl;oiho.bsvdaslejg`
