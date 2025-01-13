@@ -16,7 +16,7 @@ This was a bit unusual, since the DIB header should only be 40 bytes long, but h
 
 To fix this, I replaced the `BA D0` with `28 00` and saved the file with a `.bmp` extension.
 
-I got an image that gave us a **not correct flag*.
+I got an image that gave us a *not correct flag*.
 
 ![Screenshot (1253)](https://github.com/user-attachments/assets/005f3107-f794-4ed4-b2fb-7977c2156202)
 
