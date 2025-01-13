@@ -131,7 +131,7 @@ I thought that this would be encoded in Caesar Cipher.
 
 I tried that, and found the decrypted message `IUSEDTHEPROGRAMANDHIDITWITH-DUEDILIGENCE.CHECKOUTTHEPHOTOS`.
 
-Upon adding spaces in required places, I got `I USED THE PROGRAM AND HID I TWITH - DUEDILIGENCE. CHECK OUT THE PHOTOS`.
+Upon adding spaces in required places, I got `I USED THE PROGRAM AND HID IT WITH - DUEDILIGENCE. CHECK OUT THE PHOTOS`.
 
 Meaning there was a passcode required, which was `DUEDILIGENCE`.
 
